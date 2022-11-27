@@ -10,7 +10,7 @@
 
 ## Description of me
 
-<img src="src/pusheencode.gif" alt="codecat" style="zoom:50%;" />
+
 
 - 🤖 We launched a detailed and concise AI learning plan, and provide a place for students to exchange basic knowledge of AI, competitions, scientific research, and apply knowledge to real.
 - ✍ Members actively participate in data science competitions and deep learning competitions, involving CV(Computer vision), NLP(Natural language processing), multimodality and other fields.
